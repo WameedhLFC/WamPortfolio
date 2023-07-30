@@ -1,0 +1,2 @@
+These two case studies are providing Informatica PowerCenter solutions for Slowly Changing Dimentsions types 1 and 2
+For more details about the case studies check out file call "Informatica Project Description.pdf"
