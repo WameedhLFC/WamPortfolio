@@ -1,4 +1,7 @@
 ﻿- I have received the following Udemy certificates recently:
+Azure Databricks & Spark For Data Engineer (Python / SQL)
+Issued On : Dec 28, 2023
+Online Transcript : https://www.udemy.com/certificate/UC-d39cbaa1-ea4b-4036-a5b1-afa80927be27/
 
 QlikSense Visualizations Masterclass
 Issued On : Dec 22, 2022
