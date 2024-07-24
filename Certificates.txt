@@ -1,7 +1,11 @@
-﻿- I have received the following Udemy certificates recently:
+﻿- I have received the following certificates recently:
+AWS Certified Cloud Practitioner
+Issued On: Jun 06, 2024
+Online Badge: https://www.credly.com/badges/0f5d87db-3b5b-4694-adab-6664e471cdae
+
 Azure Databricks & Spark For Data Engineer (Python / SQL)
 Issued On : Dec 28, 2023
-Online Transcript : https://www.udemy.com/certificate/UC-d39cbaa1-ea4b-4036-a5b1-afa80927be27/
+Online Transcript: https://www.udemy.com/certificate/UC-354aecc8-c1b9-4d74-bc3b-b15364b02381/
 
 QlikSense Visualizations Masterclass
 Issued On : Dec 22, 2022
